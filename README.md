@@ -3,6 +3,8 @@ Project Overview:
   This project leverages pretrained transformer models, specifically GPT-2 and GPT-Neo, for predicting the next word in a given text input. 
   The goal is to demonstrate the capabilities of these models in generating the next most probable word based on an input text, 
   as well as evaluating model performance using loss and perplexity metrics.
+
+ 
 Features
   Next-Word Prediction: Predict the next word in a given input text using GPT-2 and GPT-Neo.
   Model Evaluation: Compute the loss and perplexity to assess the model's performance on different datasets.
